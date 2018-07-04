@@ -3,8 +3,8 @@
 [other screenshots](https://sourceforge.net/projects/phpminiadmin/#screenshots)
 
 ## How to Install
-- Download [phpminiadmin.php](https://raw.github.com/osalabs/phpminiadmin/master/phpminiadmin.php) file
-  - example: `wget https://raw.github.com/osalabs/phpminiadmin/master/phpminiadmin.php`
+- Download [phpminiadmin.php](https://raw.github.com/awais-vteams/phpminiadmin/master/phpminiadmin.php) file
+  - example: `wget https://raw.github.com/awais-vteams/phpminiadmin/master/phpminiadmin.php`
 - Copy/Upload it to your webserver public directory (www or public_html or whatever...)
 - Open in your browser `http://yoursite.com/phpminiadmin.php`
 
@@ -28,12 +28,12 @@ In the directory samples you'll find phpminiconfig.php for known OpenSource pack
 - [Live demo](http://phpminiadmin.sourceforge.net/phpminiadmin.php) (pwd: pmaiscool)
 - [Download latest version](https://sourceforge.net/projects/phpminiadmin/files/latest)
 - [SourceForge page of the phpMiniAdmin](http://phpminiadmin.sourceforge.net/)
-- [My Twitter](http://twitter.com/#!/osalabs)
-- [My website](http://osalabs.com)
+- [My Twitter](http://twitter.com/#!/engr_awais)
+- [My website](http://fineblogging.com)
 
 ## Change Log
 ### changes in phpMiniAdmin 1.9.170730 (latest)
-- fixed potential XSS in database names and fields [#28](https://github.com/osalabs/phpminiadmin/issues/28)
+- fixed potential XSS in database names and fields [#28](https://github.com/awais-vteams/phpminiadmin/issues/28)
 - db NULLs now displayed in italic to distinguish from "NULL" text
 - misc formatting adjustments
 
